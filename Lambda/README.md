@@ -13,6 +13,10 @@ A Lambda function can be triggered by a user, by a CRON schedule, or by an Event
 
 ## Use case
 
-Update [Cloud Search](../CloudSearch) based on [S3](../S3) incoming files events.
+Update [Cloud Search](../CloudSearch) based on [S3](../S3) incoming files events:
 
 - [Build your own Document Search Engine using Amazon Web Services](https://medium.com/devopslinks/build-your-own-document-search-engine-using-amazon-web-services-82d5b165d96c)
+
+Create a simple AWS IoT device and connect it to an AWS Lambda Function:
+
+- [AWS IoT: Creating your first cloud-bound device – TensorIoT – Medium](https://medium.com/tensoriot/aws-iot-creating-your-first-cloud-bound-device-d8dca0695f43)
